@@ -1,3 +1,17 @@
+
+// firebase login
+// firebase init
+// firebase deploy
+
+Project Console: https://console.firebase.google.com/project/netflixgpt-f6f0f/overview
+Hosting URL: https://netflixgpt-f6f0f.web.app
+
+// API KEY
+
+eyJhbGciOiJIUzI1NiJ9eyJhdWQiOiJhNzU1ZjFjMjJhZDRkZGE3MDU0MDZhMWMwYTNjNDk3ZiIsInN1YiI6IjY1NDA4YmFmNzUxMTBkMDBlMmQyY2ZmZSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.qb4keWKVzgi8aXw-YV0oZ8rfoU5YGCLx6FvkDjj_78Q
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +82,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
